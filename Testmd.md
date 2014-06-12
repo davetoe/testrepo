@@ -2,9 +2,9 @@
 
 ##Why I am even doing this?
 
-*to practice
-*to learn the concept
-*perhaps even have fun
+* to practice
+* to learn the concept
+* perhaps even have fun
 
 ###How is it going so far?
 
